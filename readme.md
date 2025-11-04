@@ -39,9 +39,7 @@ preprocessing/           # Position + shadow + SRP features + SRP acceleration
 feature_engineering/     # consoliddated data for traning
 model/                   # ML training artifacts
 validation/              # Comparison workflow (SGP4 vs Cannonball vs ML SRP)
-
 ```
-
 
 
 
