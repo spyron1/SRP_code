@@ -9,7 +9,7 @@ Simple end‑to‑end pipeline to:
 ## 1. Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/spyron1/SRP_code.git
 
 
 ```
