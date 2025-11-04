@@ -42,13 +42,6 @@ validation/              # Comparison workflow (SGP4 vs Cannonball vs ML SRP)
 
 ```
 
-Reference docs:
-- [data_acquisition/README.md](data_acquisition/README.md)
-- [preprocessing/README.md](preprocessing/README.md)
-- [validation/README.md](validation/README.md)
-- [SRP_ML_Guidelines.md](SRP_ML_Guidelines.md)
-- [SRP_Validation_Strategy.md](SRP_Validation_Strategy.md)
-
 
 
 
