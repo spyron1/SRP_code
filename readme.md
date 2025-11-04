@@ -50,8 +50,6 @@ Reference docs:
 - [SRP_Validation_Strategy.md](SRP_Validation_Strategy.md)
 
 
-## License / Attribution
 
-Academic/research use. Cite internal author (Divyanshu ) where appropriate.
 
 
