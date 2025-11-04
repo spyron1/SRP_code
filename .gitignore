@@ -1,6 +1,6 @@
 # Environment variables (contains sensitive credentials)
 .env
-
+srp
 # Python
 __pycache__/
 *.py[cod]
@@ -49,7 +49,7 @@ Thumbs.db
 # data/*.json
 
 # Model files
-*.pkl
+
 *.h5
 *.hdf5
 
